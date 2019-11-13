@@ -1,0 +1,1 @@
+console.log('I am JavaScrip running in your page !')
